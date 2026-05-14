@@ -62,7 +62,7 @@ Desenvolver soluções modernas utilizando inteligência artificial, automação
 - LinkedIn: linkedin.com/in/henriquessembla
 - Email: henriquesembla@gmail.com
 
-  ## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sembla&show_icons=true&theme=tokyonight)
 
