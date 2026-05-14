@@ -64,6 +64,8 @@ Desenvolver soluções modernas utilizando inteligência artificial, automação
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sembla&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sembla&layout=compact&theme=tokyonight)
