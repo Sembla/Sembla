@@ -1,16 +1,57 @@
-## Hi there 👋
+# Henrique Sembla 👋
 
-<!--
-**Sembla/Sembla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Generative AI & Automation Specialist
 
-Here are some ideas to get you started:
+Especialista em automação com IA, integração de sistemas e soluções digitais focadas em produtividade, transformação digital e inovação empresarial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+- JavaScript
+- TypeScript
+- Node.js
+- React
+- Python
+- OpenAI API
+- PostgreSQL
+- Supabase
+- Shopify
+- Power BI
+
+---
+
+## 🧠 Especialidades
+
+- IA Generativa (GenAI)
+- Automação de Processos
+- Integração de Sistemas
+- APIs
+- Dashboards
+- Desenvolvimento Web
+- Soluções Empresariais
+- Transformação Digital
+
+---
+
+## 📌 Projetos em desenvolvimento
+
+- Dashboard Industrial
+- IA para Atendimento
+- Automação de Orçamentos
+- Integração ERP
+- Shopify Tech Store
+- AI Business Assistant
+
+---
+
+## 📈 Objetivo
+
+Desenvolver soluções modernas utilizando inteligência artificial, automação e integração de sistemas para aumentar produtividade e eficiência operacional.
+
+---
+
+## 🌎 Contato
+
+- LinkedIn: linkedin.com/in/henriquessembla
+- Email: henriquesembla@gmail.com
