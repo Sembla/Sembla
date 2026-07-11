@@ -2,10 +2,16 @@
 
 # Hi, I'm Henrique Sembla
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Generative+AI+%26+Automation+Specialist;Systems+Integration+%7C+Data+%7C+Cybersecurity;Python+%7C+TypeScript+%7C+Node.js+%7C+React;Building+AI-powered+solutions+for+real+businesses" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Generative+AI+%26+Automation+Specialist;Systems+Integration+%7C+Data+%7C+Cybersecurity;Python+%7C+TypeScript+%7C+Node.js+%7C+React;Building+AI-powered+solutions+for+real+businesses"
+  alt="Typing animation"
+/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Sembla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Sembla&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
 </p>
 
 **Generative AI · Automation · Systems Integration · Data · Cybersecurity**
@@ -13,7 +19,7 @@
 I design practical digital solutions that connect artificial intelligence, software, data and business processes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Sembla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquessembla)
-[![Gmail](https://img.shields.io/badge/Email-henriquesembla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquesembla@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-henriquessembla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquessembla@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Sembla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sembla)
 
 </div>
@@ -48,24 +54,36 @@ I design practical digital solutions that connect artificial intelligence, softw
 ### AI, Automation & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,supabase" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,supabase" alt="AI, automation and data technologies" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,vite,html,css,git,github,vscode" />
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,vite,html,css,git,github,vscode"
+    alt="Software development technologies"
+  />
 </p>
 
 ### Infrastructure, Cloud & Security
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,azure,aws" />
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img
+    src="https://skillicons.dev/icons?i=linux,windows,azure,aws"
+    alt="Infrastructure and cloud technologies"
+  />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
 </p>
 
 ---
@@ -98,20 +116,10 @@ I design practical digital solutions that connect artificial intelligence, softw
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sembla&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Henrique's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sembla&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=Sembla&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sembla&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+<img
+  src="https://streak-stats.demolab.com?user=Sembla&theme=github-dark-blue&hide_border=true"
+  alt="Henrique Sembla GitHub contribution streak"
+/>
 
 </div>
 
@@ -121,20 +129,32 @@ I design practical digital solutions that connect artificial intelligence, softw
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sembla&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Sembla&theme=github-compact&hide_border=true&area=true"
+  alt="Henrique Sembla GitHub contribution activity graph"
+/>
 
 </div>
 
 ---
 
-## Feeding the Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sembla/Sembla/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sembla/Sembla/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Sembla/Sembla/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sembla/Sembla/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sembla/Sembla/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Sembla/Sembla/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution grid snake animation"
+  />
 </picture>
 
 </div>
@@ -160,7 +180,7 @@ I design practical digital solutions that connect artificial intelligence, softw
 I am open to exchanging ideas, collaborating on projects and discussing opportunities involving **AI, automation, data, software engineering, cybersecurity and digital transformation**.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquessembla)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquesembla@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquessembla@gmail.com)
 
 **Always learning, always building, always improving.**
 
