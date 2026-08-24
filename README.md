@@ -69,7 +69,7 @@ A fictional pharmacy environment transformed into a controlled 3D walkthrough wi
 
 A tested engineering-data workflow inspired by a CAD-to-BOM process. Its public implementation uses a neutral schema, fictional identifiers and deterministic quality indicators without exposing organization-specific field names or component vocabulary.
 
-**Evidence:** neutral CAD-style adapter · fictional public sample · deterministic quality flags · normalized CSV export · 12 automated tests
+**Evidence:** [reproducible demo snapshot](https://github.com/Sembla/Engineering-BOM-Intelligence/blob/main/docs/evidence/demo-summary.svg) · neutral CAD-style adapter · fictional public sample · deterministic quality flags · normalized CSV export · 16 automated tests
 
 ### [AI ERP Assistant](https://github.com/Sembla/ai-erp-assistant)
 
