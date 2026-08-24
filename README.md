@@ -55,6 +55,14 @@ The case documents:
 
 **Evidence:** [case documentation](case-studies/ai-commercial-presentation/README.md) · [technical pipeline](case-studies/ai-commercial-presentation/pipeline/README.md) · [source code](case-studies/ai-commercial-presentation/pipeline/media_pipeline.py)
 
+### [Real-time retail tour with Twinmotion](case-studies/twinmotion-retail-tour/README.md)
+
+[![Twinmotion retail tour preview](case-studies/twinmotion-retail-tour/assets/tour-preview.gif)](case-studies/twinmotion-retail-tour/README.md)
+
+A fictional pharmacy environment transformed into a controlled 3D walkthrough with Twinmotion. The public case uses an AI-assisted conceptual redraw instead of the technical source layout and clearly distinguishes real-time 3D visualization from generative video.
+
+**Evidence:** [case documentation](case-studies/twinmotion-retail-tour/README.md) · [sanitized layout](case-studies/twinmotion-retail-tour/assets/layout-conceitual-sanitizado.png) · [optimized tour](case-studies/twinmotion-retail-tour/assets/tour-twinmotion.mp4) · [media manifest](case-studies/twinmotion-retail-tour/media-manifest.json)
+
 ### [Engineering BOM Intelligence](https://github.com/Sembla/Engineering-BOM-Intelligence)
 
 A tested BOM calculation prototype connected to engineering workflows. It validates structured input and applies separate cost rules for area-based materials, linear profiles and unit components.
@@ -86,12 +94,12 @@ An educational high-stakes architecture prototype where Python rules calculate t
 | Applied AI | Generative AI, prompt engineering, AI image/video workflows, output validation |
 | Programming & automation | Python, JavaScript, TypeScript, Node.js, REST APIs, Git and GitHub |
 | Data | SQL, Power BI, data analysis and KPI development |
-| Engineering | AutoCAD, TopSolid Wood, 2D/3D modeling and BOM-related workflows |
+| Engineering & visualization | AutoCAD, TopSolid Wood, Twinmotion, real-time 3D visualization and BOM-related workflows |
 | Infrastructure & governance | Windows Server, Active Directory, cloud fundamentals, cybersecurity and ISO 27001 concepts |
 
 ## Project maturity
 
-These repositories are portfolio prototypes, not production systems. Each featured project now states its limitations, uses synthetic or anonymized inputs, documents its architecture and includes automated tests. The original [GenAI Risk Analyst](https://github.com/Sembla/genai-risk-analyst) and [Data Insight AI Revision 1](https://github.com/Sembla/Data-insight-ai-REV1) are retained only as transparent superseded versions.
+These repositories are portfolio prototypes, not production systems. Each featured project states its limitations and uses synthetic, fictional or anonymized inputs. The featured software projects also document their architecture and include automated tests. The original [GenAI Risk Analyst](https://github.com/Sembla/genai-risk-analyst) and [Data Insight AI Revision 1](https://github.com/Sembla/Data-insight-ai-REV1) are retained only as transparent superseded versions.
 
 ## Education
 

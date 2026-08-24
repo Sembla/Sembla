@@ -1,0 +1,22 @@
+{
+  "project_type": "fictional real-time retail visualization",
+  "source_layout_published": false,
+  "sanitized_layout": {
+    "file": "assets/layout-conceitual-sanitizado.png",
+    "purpose": "portfolio-only conceptual redraw",
+    "ai_assisted": true,
+    "not_to_scale": true,
+    "sha256": "a382161506aa43fcbaec94635f8c3cf185b9bd0d2884b9f2ab03ab452580841b"
+  },
+  "tour": {
+    "file": "assets/tour-twinmotion.mp4",
+    "renderer": "Twinmotion",
+    "generative_ai_video": false,
+    "duration_seconds": 10.4,
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "audio": false,
+    "sha256": "9dc987b125ca91ab6465db90d0e99148b38b899b22c18107e7a2f2eb605935d6"
+  }
+}
