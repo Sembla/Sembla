@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sembla/Sembla/main/assets/banner.png" width="100%" alt="Henrique Sembla — Applied AI, Process Automation and Data"/>
+<img src="https://raw.githubusercontent.com/Sembla/Sembla/main/assets/banner-applied-ai.png" width="100%" alt="Henrique Sembla — Applied AI, Process Automation and Data Analysis"/>
 
 # Henrique Sembla
 
