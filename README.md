@@ -6,7 +6,7 @@
 
 **Applied AI · Process Automation · Data Analysis**
 
-Computer Science professional focused on using technology to improve real workflows, communication and decision-making.
+Computer Science professional applying AI, automation and data to make technical and operational work clearer, faster and easier to use.
 
 [LinkedIn](https://www.linkedin.com/in/henriquessembla) · [Email](mailto:henriquesembla@gmail.com) · [GitHub](https://github.com/Sembla)
 
@@ -16,9 +16,11 @@ Computer Science professional focused on using technology to improve real workfl
 
 ## About me
 
-I work at the intersection of **processes, engineering and technology**. My experience includes engineering project development, product and environment visualization, IT infrastructure, data analysis and the practical adoption of generative AI.
+My background combines IT infrastructure, engineering projects, technical visualization and data. That mix shaped the way I work: I start with the process and the people who use it, then choose the simplest technology that can make the work better.
 
-My current focus is not AI as a standalone trend. I am interested in where it produces useful outcomes: making technical information easier to understand, reducing repetitive work, improving presentations and supporting better decisions.
+Sometimes that means a Python automation or a dashboard. In other cases, it means using generative AI to turn technical material into something a client can understand. I also care about the less visible part of the work: reviewing outputs, documenting limitations and keeping sensitive information out of public examples.
+
+I am currently deepening my work in applied AI, automation and data analysis. The projects below show what I have actually built, how I made the decisions and where each prototype still has limitations.
 
 ## Professional focus
 
@@ -97,9 +99,11 @@ An educational high-stakes architecture prototype where Python rules calculate t
 | Engineering & visualization | AutoCAD, TopSolid Wood, Twinmotion, real-time 3D visualization and BOM-related workflows |
 | Infrastructure & governance | Windows Server, Active Directory, cloud fundamentals, cybersecurity and ISO 27001 concepts |
 
-## Project maturity
+## How to read this portfolio
 
-These repositories are portfolio prototypes, not production systems. Each featured project states its limitations and uses synthetic, fictional or anonymized inputs. The featured software projects also document their architecture and include automated tests. The original [GenAI Risk Analyst](https://github.com/Sembla/genai-risk-analyst) and [Data Insight AI Revision 1](https://github.com/Sembla/Data-insight-ai-REV1) are retained only as transparent superseded versions.
+The software projects here are portfolio prototypes, not production systems. I keep them public to show how I structure problems, write tests and document trade-offs. All public examples use synthetic, fictional or anonymized data.
+
+The original [GenAI Risk Analyst](https://github.com/Sembla/genai-risk-analyst) and [Data Insight AI Revision 1](https://github.com/Sembla/Data-insight-ai-REV1) are superseded versions and are not part of the featured portfolio.
 
 ## Education
 
@@ -108,12 +112,12 @@ These repositories are portfolio prototypes, not production systems. Each featur
 - MBA studies in Cybersecurity and Project Management.
 - Postgraduate studies in Systems Analysis and Development.
 
-## Currently building
+## What I'm working on
 
-- Reproducible examples of AI applied to process improvement.
-- Automation projects with clear inputs, outputs, tests and documentation.
+- Small, reproducible examples of AI applied to process improvement.
+- Automations with clear inputs, outputs, tests and documentation.
 - Data and BI projects connected to operational decisions.
-- Creative-production experiments with measurable campaign indicators and explicit attribution limits.
+- Practical experiments in AI-assisted creative production, with honest measurement and clear attribution limits.
 
 ---
 
