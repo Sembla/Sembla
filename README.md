@@ -45,6 +45,24 @@ The case documents:
 
 **Evidence:** [case documentation](case-studies/ai-commercial-presentation/README.md) · [technical pipeline](case-studies/ai-commercial-presentation/pipeline/README.md) · [source code](case-studies/ai-commercial-presentation/pipeline/media_pipeline.py)
 
+### [Engineering BOM Intelligence](https://github.com/Sembla/Engineering-BOM-Intelligence)
+
+A tested BOM calculation prototype connected to engineering workflows. It validates structured input and applies separate cost rules for area-based materials, linear profiles and unit components.
+
+**Evidence:** deterministic calculation engine · documented data contract · CSV/XLSX workflow · 7 automated tests
+
+### [Data Insight AI](https://github.com/Sembla/Data-insight-ai)
+
+A sales-analysis prototype with local KPI answers and an optional LLM mode designed around a clear privacy boundary: only aggregates are sent to the external model.
+
+**Evidence:** separated analytics core · local fallback · aggregate-only LLM context · 8 automated tests
+
+### [GenAI Risk Analyst Pro](https://github.com/Sembla/GenAI-Risk-Analyst-Pro)
+
+An educational high-stakes architecture prototype where Python rules calculate the synthetic classification, TF-IDF retrieves fictional policy documents and the optional LLM can explain—but not change—the decision.
+
+**Evidence:** deterministic decision layer · visible retrieval sources · explicit safety limitations · 9 automated tests
+
 ## Technical toolkit
 
 | Area | Tools and experience |
@@ -55,14 +73,9 @@ The case documents:
 | Engineering | AutoCAD, TopSolid Wood, 2D/3D modeling and BOM-related workflows |
 | Infrastructure & governance | Windows Server, Active Directory, cloud fundamentals, cybersecurity and ISO 27001 concepts |
 
-## Other technical experiments
+## Project maturity
 
-These repositories are learning projects and technical experiments rather than production products:
-
-- [GenAI Risk Analyst](https://github.com/Sembla/genai-risk-analyst) — experiment with contextual retrieval for credit-risk analysis.
-- [GenAI Risk Analyst Pro](https://github.com/Sembla/GenAI-Risk-Analyst-Pro) — extended exploration of RAG and document analysis.
-- [Data Insight AI](https://github.com/Sembla/Data-insight-ai) — experiment with AI-assisted data analysis.
-- [Engineering BOM Intelligence](https://github.com/Sembla/Engineering-BOM-Intelligence) — exploration of AI applied to engineering information.
+These repositories are portfolio prototypes, not production systems. Each featured project now states its limitations, uses synthetic or anonymized inputs, documents its architecture and includes automated tests. The original [GenAI Risk Analyst](https://github.com/Sembla/genai-risk-analyst) concept is retained only as a transparent superseded version.
 
 ## Education
 
@@ -76,6 +89,7 @@ These repositories are learning projects and technical experiments rather than p
 - Reproducible examples of AI applied to process improvement.
 - Automation projects with clear inputs, outputs, tests and documentation.
 - Data and BI projects connected to operational decisions.
+- A documented SBL TECH creative-production case study using AI-assisted video workflows.
 
 ---
 
