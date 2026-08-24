@@ -65,9 +65,9 @@ A fictional pharmacy environment transformed into a controlled 3D walkthrough wi
 
 ### [Engineering BOM Intelligence](https://github.com/Sembla/Engineering-BOM-Intelligence)
 
-A tested BOM calculation prototype connected to engineering workflows. It validates structured input and applies separate cost rules for area-based materials, linear profiles and unit components.
+A tested engineering-data workflow inspired by a real BricsCAD furniture project. It detects CAD-exported BOMs, maps Portuguese fields, normalizes component data and surfaces dimension and finish coverage before downstream analysis.
 
-**Evidence:** deterministic calculation engine · documented data contract · CSV/XLSX workflow · 7 automated tests
+**Evidence:** BricsCAD-style import adapter · fictional public sample · deterministic quality flags · normalized CSV export · 12 automated tests
 
 ### [AI ERP Assistant](https://github.com/Sembla/ai-erp-assistant)
 
