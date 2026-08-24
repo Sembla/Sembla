@@ -75,7 +75,7 @@ A tested engineering-data workflow inspired by a CAD-to-BOM process. Its public 
 
 An executable Node.js prototype for querying fictional ERP-like operational data in Portuguese. It combines deterministic analytics, a dependency-free HTTP API, a responsive interface and an optional aggregate-only LLM explanation mode.
 
-**Evidence:** working API and browser interface · local fallback · synthetic operational data · aggregate-only LLM boundary · 12 automated tests
+**[Live demo](https://ai-erp-assistant-2ehm.onrender.com/)** · **Evidence:** [verified interface capture](https://github.com/Sembla/ai-erp-assistant/blob/main/docs/evidence/live-demo.jpg) · [30/30 deterministic evaluation fixtures](https://github.com/Sembla/ai-erp-assistant/blob/main/docs/evidence/evaluation-report.json) · [aggregate-only privacy report](https://github.com/Sembla/ai-erp-assistant/blob/main/docs/evidence/privacy-report.json) · synthetic operational data · local fallback · 14 automated tests
 
 ### [Data Insight AI](https://github.com/Sembla/Data-insight-ai)
 
