@@ -52,6 +52,23 @@ Clique na prévia para abrir o vídeo completo.
 | Revisão | Identificação de distorções e separação entre conteúdo conceitual e técnico | Uso responsável da IA e redução de interpretações incorretas |
 | Apresentação | Organização dos materiais em uma narrativa visual | Maior clareza para avaliação da proposta |
 
+## Automação técnica reproduzível
+
+Além da documentação visual, este repositório contém uma [automação em Python](pipeline/README.md) para preparar as mídias do case de maneira reproduzível.
+
+O pipeline:
+
+- Remove metadados incorporados em imagens e vídeos.
+- Otimiza resolução, formato e tamanho dos arquivos.
+- Converte o tour em um MP4 silencioso de 1280×720.
+- Gera automaticamente o GIF de prévia.
+- Produz um relatório JSON com propriedades e hashes dos arquivos.
+- Possui testes unitários para as principais decisões de processamento e segurança.
+
+**Limite de segurança:** o código não identifica informações confidenciais visíveis. A sanitização semântica do layout continua sendo uma etapa humana obrigatória antes do processamento.
+
+**Código:** [`pipeline/media_pipeline.py`](pipeline/media_pipeline.py) · **Testes:** [`pipeline/tests/test_media_pipeline.py`](pipeline/tests/test_media_pipeline.py)
+
 ## Resultado do experimento
 
 O teste demonstrou que uma planta sanitizada pode ser convertida em uma sequência visual composta por layout conceitual, imagem ambientada e tour virtual. A abordagem tem potencial para melhorar a clareza de apresentações e apoiar a discussão de propostas antes da execução.
@@ -66,6 +83,7 @@ Por se tratar de uma prova de conceito, este repositório não apresenta métric
 - Geração da visualização comercial e do tour virtual.
 - Revisão crítica dos resultados e identificação de distorções da IA.
 - Organização do conteúdo para apresentação do projeto.
+- Desenvolvimento do pipeline de preparação, validação e empacotamento das mídias.
 
 ## Competências demonstradas
 

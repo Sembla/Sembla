@@ -1,0 +1,86 @@
+{
+  "pipeline": "ai-presentation-media-packaging-v1",
+  "generated_at_utc": "2026-08-24T13:12:45.582178+00:00",
+  "security_boundary": "Visual anonymization is a human-review step completed before this pipeline. Metadata removal does not redact visible confidential information.",
+  "inputs": {
+    "layout": "layout-conceitual-sanitizado.png",
+    "visual": "visualizacao-comercial-ia.jpg",
+    "video": "tour-virtual-ia.mp4"
+  },
+  "outputs": [
+    {
+      "name": "layout-conceitual-sanitizado.png",
+      "size_bytes": 807858,
+      "sha256": "6000d28309104a91733ff80f3ffe590edc76fd5596bda595e9443b62528e8a3d",
+      "media": {
+        "streams": [
+          {
+            "codec_name": "png",
+            "codec_type": "video",
+            "width": 1484,
+            "height": 1060,
+            "r_frame_rate": "25/1"
+          }
+        ],
+        "format": {}
+      }
+    },
+    {
+      "name": "visualizacao-comercial-ia.jpg",
+      "size_bytes": 327624,
+      "sha256": "c7e16e2ffda4e787623a2deaa663f4c25d1d6169062e25292be54815aa3d2fca",
+      "media": {
+        "streams": [
+          {
+            "codec_name": "mjpeg",
+            "codec_type": "video",
+            "width": 1600,
+            "height": 893,
+            "r_frame_rate": "25/1"
+          }
+        ],
+        "format": {
+          "duration": "0.040000"
+        }
+      }
+    },
+    {
+      "name": "tour-virtual-ia.mp4",
+      "size_bytes": 770131,
+      "sha256": "9363fdd220c12faa4f95ecb8d85deb9163c2ac939bb461eb9f03a4bf1e1b0505",
+      "media": {
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "r_frame_rate": "24/1"
+          }
+        ],
+        "format": {
+          "duration": "5.041667"
+        }
+      }
+    },
+    {
+      "name": "tour-preview.gif",
+      "size_bytes": 2432982,
+      "sha256": "f59fcefbdbcb2518b6b228e8e9b5d64a77743f3d76dc347ab97beb212b9d522c",
+      "media": {
+        "streams": [
+          {
+            "codec_name": "gif",
+            "codec_type": "video",
+            "width": 720,
+            "height": 405,
+            "r_frame_rate": "8/1"
+          }
+        ],
+        "format": {
+          "duration": "5.010000"
+        }
+      }
+    }
+  ]
+}
