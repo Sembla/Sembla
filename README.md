@@ -61,6 +61,12 @@ A tested BOM calculation prototype connected to engineering workflows. It valida
 
 **Evidence:** deterministic calculation engine · documented data contract · CSV/XLSX workflow · 7 automated tests
 
+### [AI ERP Assistant](https://github.com/Sembla/ai-erp-assistant)
+
+An executable Node.js prototype for querying fictional ERP-like operational data in Portuguese. It combines deterministic analytics, a dependency-free HTTP API, a responsive interface and an optional aggregate-only LLM explanation mode.
+
+**Evidence:** working API and browser interface · local fallback · synthetic operational data · aggregate-only LLM boundary · 12 automated tests
+
 ### [Data Insight AI](https://github.com/Sembla/Data-insight-ai)
 
 A sales-analysis prototype with local KPI answers and an optional LLM mode designed around a clear privacy boundary: only aggregates are sent to the external model.
@@ -85,7 +91,7 @@ An educational high-stakes architecture prototype where Python rules calculate t
 
 ## Project maturity
 
-These repositories are portfolio prototypes, not production systems. Each featured project now states its limitations, uses synthetic or anonymized inputs, documents its architecture and includes automated tests. The original [GenAI Risk Analyst](https://github.com/Sembla/genai-risk-analyst) concept is retained only as a transparent superseded version.
+These repositories are portfolio prototypes, not production systems. Each featured project now states its limitations, uses synthetic or anonymized inputs, documents its architecture and includes automated tests. The original [GenAI Risk Analyst](https://github.com/Sembla/genai-risk-analyst) and [Data Insight AI Revision 1](https://github.com/Sembla/Data-insight-ai-REV1) are retained only as transparent superseded versions.
 
 ## Education
 
