@@ -30,6 +30,16 @@ My current focus is not AI as a standalone trend. I am interested in where it pr
 
 ## Featured work
 
+### [AI-assisted product creatives — SBL TECH](case-studies/sbl-tech-ai-creatives/README.md)
+
+| FIFINE vertical creative | XZONE horizontal creative |
+|---|---|
+| [![FIFINE creative preview](case-studies/sbl-tech-ai-creatives/assets/fifine-preview.gif)](case-studies/sbl-tech-ai-creatives/README.md) | [![XZONE creative preview](case-studies/sbl-tech-ai-creatives/assets/xzone-preview.gif)](case-studies/sbl-tech-ai-creatives/README.md) |
+
+Two short product creatives developed with AI-assisted video workflows, human review and channel-specific editing. Reported campaign results were **more than 10,000 people reached per video in approximately two days**, plus **more than 2,000 store-directed actions**. The case explicitly separates reach and traffic from verified sales attribution.
+
+**Evidence:** [case documentation](case-studies/sbl-tech-ai-creatives/README.md) · [media manifest](case-studies/sbl-tech-ai-creatives/media-manifest.json) · [FIFINE video](case-studies/sbl-tech-ai-creatives/assets/fifine-ai-creative.mp4) · [XZONE video](case-studies/sbl-tech-ai-creatives/assets/xzone-ai-creative.mp4)
+
 ### [AI-assisted project presentation — case study](case-studies/ai-commercial-presentation/README.md)
 
 [![AI-assisted project presentation preview](case-studies/ai-commercial-presentation/assets/tour-preview.gif)](case-studies/ai-commercial-presentation/README.md)
@@ -89,7 +99,7 @@ These repositories are portfolio prototypes, not production systems. Each featur
 - Reproducible examples of AI applied to process improvement.
 - Automation projects with clear inputs, outputs, tests and documentation.
 - Data and BI projects connected to operational decisions.
-- A documented SBL TECH creative-production case study using AI-assisted video workflows.
+- Creative-production experiments with measurable campaign indicators and explicit attribution limits.
 
 ---
 

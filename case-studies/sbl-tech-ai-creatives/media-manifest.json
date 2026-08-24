@@ -1,0 +1,28 @@
+{
+  "portfolio_copy": true,
+  "audio_removed": true,
+  "source_metrics": {
+    "status": "self-reported; source dashboards are not public in this repository",
+    "reach": "more than 10,000 people per video in approximately two days",
+    "store_directed_actions": "more than 2,000 people; exact platform event name pending confirmation",
+    "sales_attribution": "not claimed"
+  },
+  "media": [
+    {
+      "file": "assets/fifine-ai-creative.mp4",
+      "duration_seconds": 9.966667,
+      "width": 540,
+      "height": 960,
+      "fps": 30,
+      "sha256": "c587f7d7a9dcef36855339c512770c64d2641613a9b6a5db5b275a31749d24ff"
+    },
+    {
+      "file": "assets/xzone-ai-creative.mp4",
+      "duration_seconds": 10.066667,
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "sha256": "6c8795c9f90ad49b4be0bd133861419a44e364331315965d82247035a7b9469f"
+    }
+  ]
+}
