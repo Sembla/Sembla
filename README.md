@@ -20,7 +20,7 @@ My background combines IT infrastructure, engineering projects, technical visual
 
 Sometimes that means a Python automation or a dashboard. In other cases, it means using generative AI to turn technical material into something a client can understand. I also care about the less visible part of the work: reviewing outputs, documenting limitations and keeping sensitive information out of public examples.
 
-I am currently deepening my work in applied AI, automation and data analysis. The projects below show what I have actually built, how I made the decisions and where each prototype still has limitations.
+My current work focuses on applied AI, automation and data analysis. The projects below show what I have actually built, how I made the decisions and where each prototype still has limitations.
 
 ## Professional focus
 
