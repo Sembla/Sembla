@@ -8,7 +8,7 @@
 
 I build practical solutions that connect AI, automation and data to real technical and operational workflows.
 
-[Live project](https://ai-erp-assistant-2ehm.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/henriquessembla) · [Email](mailto:henriquesembla@gmail.com)
+[Saldo Real — Live](https://saldo-real-production.up.railway.app/) · [LinkedIn](https://www.linkedin.com/in/henriquessembla) · [Email](mailto:henriquesembla@gmail.com)
 
 </div>
 
@@ -16,12 +16,26 @@ I build practical solutions that connect AI, automation and data to real technic
 
 ## Selected projects
 
-These are the strongest examples of my current work. Each one includes public evidence, tests or a working demonstration.
+These are the strongest examples of my current work. Each one includes public evidence, tests, automation or a working demonstration.
 
 | Project | What it demonstrates | Verification |
 |---|---|---|
+| **[Saldo Real](https://github.com/Sembla/Saldo-Real)** | Live personal-finance PWA focused on forward-looking cash-flow decisions: safe-to-spend balance, recurring movements, conservative income confidence, 7/30-day projections, financial-flow health and decision simulation. Native Node.js API, SQLite persistence, local visitor mode, JSON backup/export and responsible product limits. | **[Live demo](https://saldo-real-production.up.railway.app/)** · Railway deployment · in-app help · 10-page user manual · automated domain/auth/API tests |
+| **[Lead Intelligence Agent](https://github.com/Sembla/Sembla/tree/main/projects/lead-intelligence-agent)** | Autonomous lead-qualification workflow using Python, TF-IDF and Logistic Regression to classify HOT/WARM/COLD leads, calculate priority and recommend the next commercial action. | **GitHub Actions verified** · scheduled every 6 hours · reproducible synthetic dataset · generated CSV + Markdown report |
 | **[AI ERP Assistant](https://github.com/Sembla/ai-erp-assistant)** | Node.js application for querying synthetic ERP-like operational data in Portuguese. Deterministic analytics, HTTP API, responsive interface and an optional aggregate-only LLM explanation mode. | **[Live demo](https://ai-erp-assistant-2ehm.onrender.com/)** · [Interface capture](https://github.com/Sembla/ai-erp-assistant/blob/main/docs/evidence/live-demo.jpg) · [30/30 evaluation fixtures](https://github.com/Sembla/ai-erp-assistant/blob/main/docs/evidence/evaluation-report.json) · [Privacy report](https://github.com/Sembla/ai-erp-assistant/blob/main/docs/evidence/privacy-report.json) · 14 automated tests |
 | **[Engineering BOM Intelligence](https://github.com/Sembla/Engineering-BOM-Intelligence)** | Tested workflow for turning neutral CAD-style project data into a normalized bill of materials with deterministic quality indicators and CSV export. | [Reproducible evidence snapshot](https://github.com/Sembla/Engineering-BOM-Intelligence/blob/main/docs/evidence/demo-summary.svg) · fictional public sample · normalized export · 16 automated tests |
+
+### Featured live product — Saldo Real
+
+**Question:** how much money is actually safe to spend before upcoming obligations create a cash-flow problem?
+
+Saldo Real models the next 7 and 30 days instead of only describing past transactions. It preserves a user-defined reserve, applies confidence only to uncertain income, identifies the lowest projected balance and lets the user simulate paying now, waiting or splitting a purchase before making the decision.
+
+**Functional evidence:** the public Railway deployment supports visitor mode without an account, recurring income/expenses, projections, decision simulation, plans, account mode, JSON backup/export and an in-app user guide. The repository documents the calculation rules, architecture, security decisions and product limitations.
+
+**Status:** 🟢 Live MVP · **Deployment:** Railway · **Version:** 0.3.2
+
+[Open live application](https://saldo-real-production.up.railway.app/) · [View source](https://github.com/Sembla/Saldo-Real)
 
 <div align="center">
 
