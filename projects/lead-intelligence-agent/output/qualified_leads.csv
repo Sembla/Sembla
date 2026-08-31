@@ -1,0 +1,7 @@
+lead_id,name,source,message,classification,priority_score,confidence,recommended_action
+L001,Ana,Instagram,Quero saber o preço e consigo começar ainda essa semana?,hot,92,0.479,contact_now
+L004,João,Referral,Preciso melhorar minha comunicação para uma apresentação urgente no trabalho.,hot,92,0.474,contact_now
+L005,Beatriz,Website,Tenho curiosidade sobre os módulos e metodologia.,warm,63,0.515,follow_up_today
+L003,Marina,Instagram,Vi o curso no Instagram. Queria entender duração e horários.,warm,62,0.494,follow_up_today
+L002,Carlos,Website,Estou pesquisando opções para talvez fazer no ano que vem.,cold,28,0.549,nurture
+L006,Rafael,Instagram,"Não tenho interesse agora, só estava olhando.",cold,28,0.497,nurture
